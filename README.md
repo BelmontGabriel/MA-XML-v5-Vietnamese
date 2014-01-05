@@ -1,5 +1,5 @@
-# MIUIAndroid MIUIv5 Vietnam Translations.
+# MIUIAndroid - MIUIv5 Vietnamese Translations.
 	This is repository for MIUIAndroid MultiRom project.
 # Credits
     ingbrzy - Builder of MultiRom, Bug reports.
-    [Belmont] - Leader of the Vietnam translation team
+    [Belmont] - Leader of the Vietnamese translation team
